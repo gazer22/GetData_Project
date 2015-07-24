@@ -83,7 +83,7 @@ All units remain normalized and bounded within [-1,1].
 
 ### Summarized variables
 Variable/Feature | Description | Units
---------------------------------------
+---------------- | ------------- | ---------
 tBodyAcc_mean_X | mean X body acceleration 
                          tBodyAcc_mean_Y | mean body Y acceleration | normalized
                          tBodyAcc_mean_Z | mean body Z acceleration | normalized
